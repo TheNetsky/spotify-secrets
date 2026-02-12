@@ -2,7 +2,7 @@
 
 [![Update Spotify Secrets](https://github.com/TheNetsky/spotify-secrets/actions/workflows/secrets.yml/badge.svg)](https://github.com/TheNetsky/spotify-secrets/actions/workflows/secrets.yml)
 
-#$ Endpoints
+## Endpoints
 https://raw.githubusercontent.com/TheNetsky/spotify-secrets/refs/heads/main/secrets/secrets.json
 
 A Spotify secrets scraper that updates hourly to monitor and extract secrets from Spotify's infrastructure.
